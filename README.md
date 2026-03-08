@@ -16,3 +16,4 @@ A technical tool designed to extract historical stock data from a MySQL database
 1. Use `schema.sql` to set up the required database tables.
 2. Provide database credentials in a `.txt` properties file (see code for expected parameters).
 3. Compile and run `StockAnalyzer.java`.
+4. To run: Copy `ConnectionParameters_RemoteComputer.txt.example` to `ConnectionParameters_RemoteComputer.txt` and add your database credentials.
