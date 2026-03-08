@@ -1,0 +1,3 @@
+dburl=jdbc:mysql://IP:PORT/your_database
+user=your_username
+password=your_password
